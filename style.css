@@ -18,7 +18,7 @@ span{
     animation: animate 6s linear;
 }
 
-/* @keyframes animate {
+@keyframes animate {
 
     0%{
         transform: translate(-50%,50%);
@@ -29,4 +29,4 @@ span{
         opacity: 0;
     }
     
-} */
+}
